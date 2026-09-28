@@ -1,0 +1,39 @@
+<svg width="100%" height="170" viewBox="0 0 850 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#00f2fe" />
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Card with subtle sleek border -->
+  <rect x="1" y="1" width="848" height="168" rx="14" fill="url(#bgGrad)" stroke="#1f293d" stroke-width="1.5" />
+
+  <!-- Subtitle Category / Location -->
+  <text x="48" y="52" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">SOFTWARE DEVELOPER • CARTAGENA, CO</text>
+
+  <!-- Developer Name -->
+  <text x="48" y="98" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">Lewis Velásquez Watts</text>
+
+  <!-- Tech Highlights -->
+  <text x="48" y="136" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="14.5" font-weight="500" letter-spacing="0.4">Java  ·  Python  ·  Distributed Systems  ·  Computer Vision  ·  FastAPI</text>
+
+  <!-- Star Sparkle Icon -->
+  <g transform="translate(745, 85)">
+    <!-- Soft Cyan Glow -->
+    <path d="M 0,-42 C 0,-14 14,0 42,0 C 14,0 0,14 0,42 C 0,14 -14,0 -42,0 C -14,0 0,-14 0,-42 Z" fill="#00f2fe" opacity="0.3" filter="url(#glow)"/>
+    <!-- Crisp Foreground Star -->
+    <path d="M 0,-42 C 0,-14 14,0 42,0 C 14,0 0,14 0,42 C 0,14 -14,0 -42,0 C -14,0 0,-14 0,-42 Z" fill="url(#starGrad)"/>
+  </g>
+</svg>
