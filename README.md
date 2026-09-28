@@ -5,7 +5,7 @@
 <div align="center">
 
 **Arquitecto de Software &amp; Sistemas Autónomos • Cartagena, Colombia 🇨🇴**  
-*Ingeniero de Sistemas (Unicolombo) &nbsp;·&nbsp; Técnico en Sistemas*
+*Estudiante de Ingeniería de Sistemas (Unicolombo) &nbsp;·&nbsp; Técnico en Sistemas*
 
 Construyo sistemas autónomos resilientes, visión artificial perimetral, agentes inteligentes y arquitecturas desacopladas de alto impacto. Python · Java · TypeScript · FastAPI · Cloud &amp; Docker.
 
@@ -22,15 +22,15 @@ Construyo sistemas autónomos resilientes, visión artificial perimetral, agente
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,php,fastapi,angular,react,ts,js,postgres,mysql,sqlite,supabase,docker,opencv,git,github&perline=8&theme=dark" alt="Lewis Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,opencv,azure,postgres,mysql,sqlite,supabase,php,java,ts,js,angular,react,tailwind,vite,android,git,github&perline=10&theme=dark" alt="Lewis Tech Stack" />
   </a>
 </p>
 
 <p align="center">
-  <b>🤖 IA, Visión &amp; Audio:</b> Google MediaPipe Pose · OpenCV · Faster-Whisper · Google Gemini Multimodal · FFmpeg NVENC · Model Context Protocol (MCP)<br>
-  <b>🏛️ Backend &amp; Arquitectura:</b> Arquitectura Hexagonal (Puertos y Adaptadores) · Domain-Driven Design (DDD) · python-telegram-bot · Pydantic · Streamlit · PyQt<br>
-  <b>📱 Frontend &amp; Móvil:</b> PWA Offline-First · Ionic &amp; Capacitor Android · TailwindCSS · IndexedDB · Vite<br>
-  <b>☁️ Bases de Datos &amp; Cloud:</b> PostgreSQL · SQLite ACID · MySQL · Supabase Realtime · Azure Container Apps · Docker
+  <strong>Inteligencia Artificial &amp; Visión:</strong> Google MediaPipe Pose · OpenCV · Faster-Whisper · Google Gemini Multimodal · FFmpeg NVENC · Model Context Protocol (MCP)<br>
+  <strong>Arquitectura &amp; Backend:</strong> Arquitectura Hexagonal (Puertos y Adaptadores) · Domain-Driven Design (DDD) · Telegram Bot API · Pydantic · Streamlit<br>
+  <strong>Frontend &amp; Móvil:</strong> PWA Offline-First · Ionic &amp; Capacitor Android · IndexedDB · TailwindCSS · RESTful APIs<br>
+  <strong>Cloud &amp; DevOps:</strong> Docker Containers · Azure Container Apps · GitHub Actions CI/CD · Supabase Realtime
 </p>
 
 ---

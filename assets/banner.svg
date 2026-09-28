@@ -27,7 +27,7 @@
   <text x="48" y="98" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">Lewis Velásquez Watts</text>
 
   <!-- Title & Credentials -->
-  <text x="48" y="136" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="14" font-weight="500" letter-spacing="0.3">Ingeniero de Sistemas (Unicolombo)  ·  Técnico en Sistemas  ·  AI &amp; Cloud</text>
+  <text x="48" y="136" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="14" font-weight="500" letter-spacing="0.3">Estudiante de Ingeniería de Sistemas (Unicolombo)  ·  Técnico en Sistemas  ·  AI &amp; Cloud</text>
 
   <!-- Star Sparkle Icon -->
   <g transform="translate(745, 85)">
