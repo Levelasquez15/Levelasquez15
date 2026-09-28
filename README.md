@@ -10,7 +10,7 @@
 Construyo sistemas autónomos resilientes, visión artificial perimetral, agentes inteligentes y arquitecturas desacopladas de alto impacto. Python · Java · TypeScript · FastAPI · Cloud &amp; Docker.
 
 [**Portfolio**](https://github.com/Levelasquez15) &nbsp;·&nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/) &nbsp;·&nbsp;
+[**LinkedIn**](https://www.linkedin.com/in/iee) &nbsp;·&nbsp;
 [**Email**](mailto:lewis.velasquezwatts@unicolombo.edu.co) &nbsp;·&nbsp;
 [**X**](https://x.com/)
 
