@@ -4,8 +4,8 @@
 
 <div align="center">
 
-**Backend &amp; Distributed Systems Developer • Cartagena, Colombia 🇨🇴**  
-Construyo sistemas distribuidos resilientes, arquitecturas de alto rendimiento y visión artificial aplicada. Java · Python · OpenCV · FastAPI.
+**Software Engineer &amp; AI Systems Developer • Cartagena, Colombia 🇨🇴**  
+Construyo aplicaciones inteligentes de alto impacto, visión artificial perimetral, agentes autónomos y pipelines de analítica predictiva. Python · FastAPI · Computer Vision · Docker.
 
 [**Portfolio**](https://github.com/Levelasquez15) &nbsp;·&nbsp;
 [**LinkedIn**](https://www.linkedin.com/in/) &nbsp;·&nbsp;
@@ -20,12 +20,12 @@ Construyo sistemas distribuidos resilientes, arquitecturas de alto rendimiento y
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,fastapi,postgres,docker,opencv,sqlite,bash,git,github&theme=dark" alt="Lewis Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,opencv,sqlite,postgres,bash,php,ts,angular,git,github&theme=dark" alt="Lewis Tech Stack" />
   </a>
 </p>
 
 <p align="center">
-  <sub><b>También:</b> Arquitectura Hexagonal · Sockets UDP/IP &amp; TCP · Java RMI &amp; LipeRMI · Google MediaPipe · Playwright · MCP · NetBeans</sub>
+  <sub><b>También:</b> Google MediaPipe · Model Context Protocol (MCP) · python-telegram-bot · Streamlit · FFmpeg · Faster-Whisper · Arquitectura Hexagonal &amp; DDD · Capacitor Android</sub>
 </p>
 
 ---
@@ -34,11 +34,13 @@ Construyo sistemas distribuidos resilientes, arquitecturas de alto rendimiento y
 
 | Proyecto | Qué es | Stack |
 | :--- | :--- | :--- |
-| **[Pausas Activas & Bienestar IA](https://github.com/Levelasquez15/Pausas-activas)** | Sistema inteligente de escritorio con visión artificial y estimación de poses en tiempo real con MediaPipe y Coach Virtual para desarrolladores. | `Python` `MediaPipe` `OpenCV` `SQLite` |
-| **[Sistema Distribuido UDP](https://github.com/Levelasquez15/Ejercicio-32-con-UDP--cliente-y-servidor-)** | Arquitectura cliente-servidor distribuida bajo Arquitectura Hexagonal (Puertos y Adaptadores), sockets UDP no bloqueantes y concurrencia asíncrona. | `Java` `UDP Sockets` `Hexagonal Arch` |
-| **[PROJ-003: Extractor Multimodal](https://github.com/Levelasquez15)** | Digitalizador PWA Offline-First y extracción multimodal con Google Gemini Vision sincronizado en tiempo real a Google Sheets (64 variables). | `FastAPI` `Gemini Vision` `PWA` `Google Sheets` |
-| **[Distribución RMI con LipeRMI](https://github.com/Levelasquez15/Ejercicio-32-con-RMI-y-LIPERMI--cliente-y-servidor-)** | Cómputo distribuido cliente-servidor mediante Invocación de Métodos Remotos (RMI) y middleware LipeRMI con validación robusta y DTOs. | `Java` `RMI` `LipeRMI` `Distributed Systems` |
-| **[Clinico - Agente Clínico](https://github.com/Levelasquez15)** | Sistema agéntico autónomo para digitalización automatizada de hojas de enfermería y registros médicos mediante LLMs multimodales y base OKF. | `FastAPI` `Python` `Multimodal AI` `OKF` |
+| **[Pausas Activas & SmartBreak](https://github.com/Levelasquez15/Pausas-activas)** | Sistema inteligente de escritorio para ergonomía laboral con visión artificial perimetral en MediaPipe Pose, OpenCV, Coach Virtual y gamificación interactiva. | `Python` `MediaPipe` `OpenCV` `SQLite` |
+| **[BetBot - Telegram Sports Analytics](https://github.com/Levelasquez15/bet_bot)** | Agente predictivo de fútbol en Telegram con modelos matemáticos Poisson + Elo, dashboard interactivo en Streamlit, contenedor Docker y CI/CD en Azure. | `Python` `Telegram Bot` `Streamlit` `Docker` `Azure` |
+| **[Grafo Fábrica Agéntico](https://github.com/Levelasquez15/Grafo--fabica)** | Ecosistema vivo de ingeniería agéntica y grafo de conocimiento en Obsidian con más de 1,220 nodos interconectados, 518 tools atómicas, catálogo MCP y test harness estricto. | `Python` `MCP` `Obsidian API` `Agentic AI` |
+| **[Agente Clínico de Enfermería](https://github.com/Levelasquez15)** | Asistente clínico inteligente y triage asistido por IA multimodal (Google GenAI), digitalización de registros médicos y gestión de conocimiento clínico con arquitectura OKF. | `FastAPI` `Python` `Multimodal AI` `OKF` |
+| **[AutoClips AI Studio](https://github.com/Levelasquez15)** | Pipeline autónomo para transformar videos horizontales largos en clips verticales virales (9:16) con transcripción por IA (Faster-Whisper), análisis de momentos clave y renderizado dinámico con FFmpeg. | `Python` `Faster-Whisper` `FFmpeg` `Virality Engine` |
+| **[Arquitectura Hexagonal Pura](https://github.com/Levelasquez15/crud-php)** | Aplicación desarrollada en PHP puro (sin frameworks externos) implementando rigurosamente Arquitectura Hexagonal (Puertos y Adaptadores) y Domain-Driven Design (DDD). | `PHP Vanilla` `Hexagonal Arch` `DDD` `MySQL` |
+| **[Perfume Store Mobile App](https://github.com/Levelasquez15/Frontend-Perfume-New)** | Aplicación móvil multiplataforma para e-commerce desarrollada con Angular, componentes UI de Ionic y compilación nativa para Android mediante Capacitor. | `Angular` `Ionic` `Capacitor Android` `TypeScript` |
 
 ---
 

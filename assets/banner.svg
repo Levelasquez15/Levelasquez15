@@ -27,7 +27,7 @@
   <text x="48" y="98" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">Lewis Velásquez Watts</text>
 
   <!-- Tech Highlights -->
-  <text x="48" y="136" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="14.5" font-weight="500" letter-spacing="0.4">Java  ·  Python  ·  Distributed Systems  ·  Computer Vision  ·  FastAPI</text>
+  <text x="48" y="136" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="14.5" font-weight="500" letter-spacing="0.4">Python  ·  AI &amp; Computer Vision  ·  FastAPI  ·  Agentic Systems  ·  Docker</text>
 
   <!-- Star Sparkle Icon -->
   <g transform="translate(745, 85)">
