@@ -22,7 +22,20 @@ Construyo sistemas autónomos resilientes, visión artificial perimetral, agente
 
 ---
 
-### Stack Tecnológico &amp; Herramientas de Ingeniería
+### 📊 GitHub Activity &amp; Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Levelasquez15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levelasquez15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Levelasquez15&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="99%" />
+</p>
+
+---
+
+### 💻 Stack Tecnológico &amp; Herramientas de Ingeniería
 
 #### Backend, APIs &amp; Arquitectura
 <a href="https://skillicons.dev">
@@ -61,21 +74,41 @@ Construyo sistemas autónomos resilientes, visión artificial perimetral, agente
 
 ---
 
-### Projects
+### 🚀 Featured Engineering Projects
 
-| Proyecto | Qué es | Stack |
-| :--- | :--- | :--- |
-| **[SmartBreak & Pausas Activas](https://github.com/Levelasquez15/Pausas-activas)** | Monitor ergonómico de escritorio con visión artificial biométrica en MediaPipe Pose, OpenCV, cálculo de ángulos articulares y Coach Virtual. | `Python` `MediaPipe` `OpenCV` `SQLite` |
-| **[BetBot - Telegram Sports Analytics](https://github.com/Levelasquez15/bet_bot)** | Agente predictivo y analítica de fútbol en Telegram con modelos matemáticos Poisson + Elo, dashboard en Streamlit, Docker y CI/CD en Azure. | `Python` `Telegram Bot` `Streamlit` `Docker` `Azure` |
-| **[Grafo Fábrica Agéntico](https://github.com/Levelasquez15/Grafo--fabica)** | Ecosistema vivo de ingeniería agéntica y grafo de conocimiento en Obsidian con más de 1,220 nodos, 518 tools atómicas, catálogo MCP y test harness. | `Python` `MCP` `Obsidian API` `Agentic AI` |
-| **[Agente Clínico de Enfermería](https://github.com/Levelasquez15)** | Sistema de valoración clínica y triage asistido por IA multimodal (Google GenAI), dictados de voz y digitalización de registros médicos con arquitectura OKF. | `FastAPI` `Python` `Multimodal AI` `OKF` |
-| **[AutoClips AI Studio](https://github.com/Levelasquez15)** | Pipeline autónomo para transformar videos horizontales largos en shorts/reels verticales (9:16) con transcripción Faster-Whisper, motor de viralidad y FFmpeg NVENC. | `Python` `Faster-Whisper` `FFmpeg` `Virality Engine` |
-| **[Extractor Encuestas de Salud](https://github.com/Levelasquez15)** | Digitalizador móvil PWA Offline-First para encuestas de salud laboral físicas de 64 columnas con visión multimodal Gemini y sincronización hacia Google Sheets. | `PWA Offline-First` `FastAPI` `Gemini Vision` `IndexedDB` |
-| **[Arquitectura Hexagonal en PHP](https://github.com/Levelasquez15/crud-php)** | Aplicación desarrollada en PHP puro sin frameworks externos, implementando rigurosamente Arquitectura Hexagonal (Puertos y Adaptadores) y Domain-Driven Design (DDD). | `PHP Vanilla` `Hexagonal Arch` `DDD` `MySQL` |
-| **[Mobile App E-Commerce](https://github.com/Levelasquez15/Frontend-Perfume-New)** | Aplicación móvil multiplataforma híbrida desarrollada con Angular, componentes UI de Ionic y compilación nativa para Android mediante Capacitor. | `Angular` `Ionic` `Capacitor Android` `TypeScript` |
+<p align="center">
+  <a href="https://github.com/Levelasquez15/Pausas-activas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levelasquez15&repo=Pausas-activas&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Pausas Activas" />
+  </a>
+  <a href="https://github.com/Levelasquez15/bet_bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levelasquez15&repo=bet_bot&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="BetBot" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Levelasquez15/Grafo--fabica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levelasquez15&repo=Grafo--fabica&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Grafo Fábrica" />
+  </a>
+  <a href="https://github.com/Levelasquez15/crud-php">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Levelasquez15&repo=crud-php&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="CRUD PHP Hexagonal" />
+  </a>
+</p>
+
+<details open>
+<summary><b>📂 Catálogo Extendido de Soluciones y Arquitecturas</b></summary>
+<br>
+
+* 🤖 **[Agente Clínico de Enfermería](https://github.com/Levelasquez15):** Sistema de valoración clínica y triage asistido por IA multimodal (Google GenAI), dictados de voz y digitalización médica con arquitectura OKF. *(FastAPI · Python · Multimodal AI · OKF)*
+* 🎬 **[AutoClips AI Studio](https://github.com/Levelasquez15):** Pipeline autónomo para transformar videos horizontales en clips verticales virales (9:16) con transcripción Faster-Whisper y renderizado FFmpeg NVENC. *(Python · Whisper · FFmpeg)*
+* 📋 **[Extractor Encuestas de Salud](https://github.com/Levelasquez15):** Digitalizador móvil PWA Offline-First para encuestas de 64 columnas con visión Gemini y Google Apps Script. *(PWA · FastAPI · IndexedDB)*
+* 📱 **[Perfume Store Mobile App](https://github.com/Levelasquez15/Frontend-Perfume-New):** Aplicación móvil multiplataforma para Android desarrollada con Angular, componentes UI de Ionic y compilación nativa con Capacitor. *(Angular · Ionic · Capacitor Android)*
+
+</details>
 
 ---
 
+### 👾 Space Shooter // GitHub Contributions
+
 <p align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Snake Eating Contributions" width="100%" />
+  <img src="assets/game.gif" alt="Space Shooter Contribution Game" width="100%" />
 </p>
