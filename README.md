@@ -18,20 +18,49 @@ Construyo sistemas autónomos resilientes, visión artificial perimetral, agente
 
 ---
 
-### Stack &amp; Tecnologías
+### Stack Tecnológico &amp; Herramientas de Ingeniería
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,docker,opencv,azure,postgres,mysql,sqlite,supabase,php,java,ts,js,angular,react,tailwind,vite,android,git,github&perline=10&theme=dark" alt="Lewis Tech Stack" />
-  </a>
-</p>
+#### Lenguajes de Programación &amp; Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,php,ts,js,html,css" alt="Lenguajes de Programación" />
+</a>
 
-<p align="center">
-  <strong>Inteligencia Artificial &amp; Visión:</strong> Google MediaPipe Pose · OpenCV · Faster-Whisper · Google Gemini Multimodal · FFmpeg NVENC · Model Context Protocol (MCP)<br>
-  <strong>Arquitectura &amp; Backend:</strong> Arquitectura Hexagonal (Puertos y Adaptadores) · Domain-Driven Design (DDD) · Telegram Bot API · Pydantic · Streamlit<br>
-  <strong>Frontend &amp; Móvil:</strong> PWA Offline-First · Ionic &amp; Capacitor Android · IndexedDB · TailwindCSS · RESTful APIs<br>
-  <strong>Cloud &amp; DevOps:</strong> Docker Containers · Azure Container Apps · GitHub Actions CI/CD · Supabase Realtime
-</p>
+*Python 3.12 · Java SE · PHP · TypeScript · JavaScript ES2024 · SQL ANSI · HTML5 &amp; CSS3*
+
+#### Backend, APIs &amp; Arquitectura
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,qt,bots" alt="Backend y Arquitectura" />
+</a>
+
+*Arquitectura Limpia Hexagonal / DDD · Pydantic v2 · python-telegram-bot v21 · ReportLab Platypus · Streamlit*
+
+#### Frontend, Móvil &amp; PWA
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,angular" alt="Frontend y PWA" />
+</a>
+
+*React 19 · TailwindCSS v4 · PWA Offline-First · Ionic &amp; Capacitor Android · RESTful APIs*
+
+#### Inteligencia Artificial, Visión &amp; Audio
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" alt="IA y Visión" />
+</a>
+
+*Google MediaPipe Pose (33 Landmarks) · Faster-Whisper CUDA · Google Gemini Multimodal · FFmpeg NVENC · Model Context Protocol (MCP)*
+
+#### Bases de Datos &amp; Persistencia
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,supabase,redis,mongodb" alt="Bases de Datos" />
+</a>
+
+*PostgreSQL · SQLite ACID · Supabase Realtime · IndexedDB Local Storage*
+
+#### DevOps, Cloud &amp; Herramientas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,linux,bash,powershell,vscode,postman,figma" alt="DevOps y Herramientas" />
+</a>
+
+*Docker Containers · Azure Container Apps · GitHub Actions CI/CD · Linux Shell*
 
 ---
 
