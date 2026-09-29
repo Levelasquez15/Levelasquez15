@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Lewis Velásquez Watts - Arquitecto de Software &amp; Sistemas Autónomos" width="100%" />
+  <img src="assets/banner.svg" alt="Lewis Velásquez Watts - Autonomous Systems Architect" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=38&lines=Software+Engineer+%26+Autonomous+Systems+Architect;Computer+Vision+%26+Google+MediaPipe+Pose;Agentic+AI+%26+Model+Context+Protocol+(MCP);Building+High-Impact+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -19,13 +23,6 @@ Construyo sistemas autónomos resilientes, visión artificial perimetral, agente
 ---
 
 ### Stack Tecnológico &amp; Herramientas de Ingeniería
-
-#### Lenguajes de Programación &amp; Core
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,java,php,ts,js,html,css" alt="Lenguajes de Programación" />
-</a>
-
-*Python 3.12 · Java SE · PHP · TypeScript · JavaScript ES2024 · SQL ANSI · HTML5 &amp; CSS3*
 
 #### Backend, APIs &amp; Arquitectura
 <a href="https://skillicons.dev">

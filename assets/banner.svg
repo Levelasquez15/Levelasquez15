@@ -1,39 +1,84 @@
-<svg width="100%" height="170" viewBox="0 0 850 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0d14" />
-      <stop offset="100%" stop-color="#111827" />
+      <stop offset="0%" stop-color="#06080e" />
+      <stop offset="50%" stop-color="#0a0f1d" />
+      <stop offset="100%" stop-color="#060913" />
     </linearGradient>
-    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" />
+    <linearGradient id="cyanNeon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+    <linearGradient id="purpleNeon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" />
       <stop offset="100%" stop-color="#00f2fe" />
     </linearGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00f2fe" stroke-width="0.5" stroke-opacity="0.06" />
+    </pattern>
   </defs>
-
-  <!-- Background Card with subtle sleek border -->
-  <rect x="1" y="1" width="848" height="168" rx="14" fill="url(#bgGrad)" stroke="#1f293d" stroke-width="1.5" />
-
-  <!-- Subtitle Category / Location -->
-  <text x="48" y="50" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="2.2">ARQUITECTO DE SOFTWARE &amp; SISTEMAS AUTÓNOMOS • CARTAGENA, CO</text>
-
-  <!-- Developer Name -->
-  <text x="48" y="98" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">Lewis Velásquez Watts</text>
-
-  <!-- Title & Credentials -->
-  <text x="48" y="136" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="14" font-weight="500" letter-spacing="0.3">Estudiante de Ingeniería de Sistemas (Unicolombo)  ·  Técnico en Sistemas  ·  AI &amp; Cloud</text>
-
-  <!-- Star Sparkle Icon -->
-  <g transform="translate(745, 85)">
-    <!-- Soft Cyan Glow -->
-    <path d="M 0,-42 C 0,-14 14,0 42,0 C 14,0 0,14 0,42 C 0,14 -14,0 -42,0 C -14,0 0,-14 0,-42 Z" fill="#00f2fe" opacity="0.3" filter="url(#glow)"/>
-    <!-- Crisp Foreground Star -->
-    <path d="M 0,-42 C 0,-14 14,0 42,0 C 14,0 0,14 0,42 C 0,14 -14,0 -42,0 C -14,0 0,-14 0,-42 Z" fill="url(#starGrad)"/>
+  <!-- Card Background with subtle border -->
+  <rect x="1" y="1" width="898" height="218" rx="14" fill="url(#bgGrad)" stroke="#1a2236" stroke-width="1.5" />
+  <rect x="1" y="1" width="898" height="218" rx="14" fill="url(#grid)" />
+  <!-- Glowing accent border on top -->
+  <path d="M 14 1 L 280 1" stroke="url(#cyanNeon)" stroke-width="2" stroke-linecap="round" />
+  <circle cx="285" cy="1" r="2" fill="#00f2fe" />
+  <!-- Left Side: Typography & Badges -->
+  <g transform="translate(48, 0)">
+    <text x="0" y="46" fill="#00f2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11" font-weight="700" letter-spacing="2.5">SYS // ソフトウェア開発者 · CARTAGENA, CO</text>
+    <text x="0" y="92" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">Lewis Velásquez Watts</text>
+    <text x="0" y="126" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500">Estudiante de Ingeniería de Sistemas (Unicolombo) · Técnico en Sistemas</text>
+    <text x="0" y="152" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">Autonomous Systems Architect · Computer Vision · Agentic AI · Cloud</text>
+    <!-- Minimal Tech Pills -->
+    <g transform="translate(0, 172)">
+      <rect x="0" y="0" width="64" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      <text x="32" y="15" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="10" font-weight="600">Python</text>
+      <rect x="72" y="0" width="72" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      <text x="108" y="15" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="10" font-weight="600">FastAPI</text>
+      <rect x="152" y="0" width="88" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      <text x="196" y="15" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="10" font-weight="600">MediaPipe</text>
+      <rect x="248" y="0" width="64" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      <text x="280" y="15" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="10" font-weight="600">OpenCV</text>
+      <rect x="320" y="0" width="64" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      <text x="352" y="15" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="10" font-weight="600">Docker</text>
+      <rect x="392" y="0" width="52" height="22" rx="4" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
+      <text x="418" y="15" text-anchor="middle" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="10" font-weight="600">MCP</text>
+    </g>
+  </g>
+  <!-- Right Side: Cyberpunk Anime Hacker Silhouette & HUD Aura -->
+  <g transform="translate(740, 110)">
+    <!-- Neon Tech HUD Rings -->
+    <circle cx="0" cy="0" r="75" stroke="#00f2fe" stroke-width="1" stroke-opacity="0.18" stroke-dasharray="8 6" />
+    <circle cx="0" cy="0" r="62" stroke="#a855f7" stroke-width="1.2" stroke-opacity="0.25" stroke-dasharray="24 12" />
+    <circle cx="0" cy="0" r="48" stroke="#00f2fe" stroke-width="1" stroke-opacity="0.3" />
+    <circle cx="0" cy="0" r="88" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.1" stroke-dasharray="4 8" />
+    <!-- Japanese Kanji accents -->
+    <text x="-65" y="-55" fill="#00f2fe" opacity="0.35" font-family="sans-serif" font-size="11" font-weight="700">自律</text>
+    <text x="50" y="65" fill="#a855f7" opacity="0.4" font-family="sans-serif" font-size="11" font-weight="700">知能</text>
+    <!-- Anime Character Silhouette (Torso, Jacket Collar, Hair, Headphones) -->
+    <g opacity="0.95">
+      <!-- Shoulders & Jacket -->
+      <path d="M -48 68 C -40 45 -22 36 0 35 C 22 36 40 45 48 68 Z" fill="#0f172a" stroke="#1e293b" stroke-width="1.5" />
+      <path d="M -16 36 L 0 52 L 16 36 Z" fill="#00f2fe" opacity="0.15" />
+      <!-- Head & Neck -->
+      <rect x="-8" y="24" width="16" height="15" fill="#0c1220" />
+      <path d="M -16 6 C -18 20 -8 28 0 28 C 8 28 18 20 16 6 Z" fill="#0f172a" />
+      <!-- Anime Spiky Hair Silhouette -->
+      <path d="M -22 8 C -26 -6 -18 -26 0 -28 C 18 -26 26 -6 22 8 C 20 0 16 -12 8 -18 C 12 -8 10 2 6 8 C 2 -6 -2 -14 -6 -18 C -2 -6 -4 2 -8 8 C -14 -4 -18 -2 -22 8 Z" fill="#00f2fe" opacity="0.75" filter="url(#neonGlow)" />
+      <path d="M -22 8 C -26 -6 -18 -26 0 -28 C 18 -26 26 -6 22 8 C 20 0 16 -12 8 -18 C 12 -8 10 2 6 8 C 2 -6 -2 -14 -6 -18 C -2 -6 -4 2 -8 8 C -14 -4 -18 -2 -22 8 Z" fill="#0a101f" stroke="#00f2fe" stroke-width="1" />
+      <!-- Glowing Cyber Headphones -->
+      <path d="M -20 2 C -24 2 -25 14 -20 16 C -18 16 -17 4 -20 2 Z" fill="#a855f7" filter="url(#neonGlow)" />
+      <path d="M 20 2 C 24 2 25 14 20 16 C 18 16 17 4 20 2 Z" fill="#00f2fe" filter="url(#neonGlow)" />
+      <path d="M -20 2 C -18 -16 18 -16 20 2" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-opacity="0.8" />
+      <!-- Cyber Visor / Eye Glow -->
+      <rect x="-11" y="8" width="22" height="4" rx="2" fill="#00f2fe" filter="url(#neonGlow)" />
+    </g>
   </g>
 </svg>
