@@ -1,0 +1,21 @@
+name: 'GitAscii Publisher'
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily refresh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: GitAscii Publisher
+        uses: Igorcbraz/GitAscii/action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
